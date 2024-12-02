@@ -1,0 +1,5 @@
+pip install pypdf
+pip install langchain
+pip install chromadb # Vector storage
+pip install pytest
+boto3
