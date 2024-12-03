@@ -1,5 +1,20 @@
-pip install pypdf
-pip install langchain
-pip install chromadb # Vector storage
-pip install pytest
+Install Python and put it to environment variables
+Verify pip is installed
+
+py -m pip install --upgrade pip
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+py -m pip install pypdf
+py -m pip install langchain
+py -m pip install chromadb # Vector storage
+py -m pip install pytest
+py -m pip install -U langchain-community
+py -m pip install chroma-hnswlib --only-binary :all:
+py -m pip install transformers
+py -m pip install sentence-transformers
+py -m pip install -U langchain-community
+py -m pip install -U langchain_chroma langchain_huggingface
+
+
+
 boto3
