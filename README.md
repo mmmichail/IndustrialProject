@@ -1,5 +1,3 @@
-# rag-tutorial-v2
-
 # To populate your data:
 python populate_database.py
 or
